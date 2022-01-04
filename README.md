@@ -8,6 +8,6 @@ How to install in Linux
 4. ./joke_generator.py
 
 
-Tips: If it has error, just execute ./joke_generator.py multiple times.
+Tips: If it has error, just execute ./joke_generator.py multiple times. Besides, you can use python2
 
 Enjoyy!!!
